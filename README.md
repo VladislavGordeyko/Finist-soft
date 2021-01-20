@@ -1,4 +1,4 @@
-###Test FrontEnd task for Finist-soft company
+# Test FrontEnd task for Finist-soft company
 
 ## Project setup
 ```
